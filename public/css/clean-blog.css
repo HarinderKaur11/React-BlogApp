@@ -31,6 +31,11 @@ a {
   a:focus, a:hover {
     color: #0085A1; }
 
+    .ttt{
+      background: url(../img/home-bg.jpg);
+    }
+
+
 a img:focus, a img:hover {
   cursor: zoom-in; }
 
@@ -152,7 +157,7 @@ header.masthead {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
+  background-size: cover;}
   header.masthead .page-heading,
   header.masthead .post-heading,
   header.masthead .site-heading {
@@ -349,3 +354,7 @@ footer {
   color: white;
   border: 1px solid #0085A1;
   background-color: #0085A1; }
+
+.ttt{
+  background: url(../img/home-bg.jpg);
+}
